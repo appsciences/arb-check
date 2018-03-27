@@ -1,0 +1,20 @@
+{
+  "name": "arb-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "binance-api-node": "^0.7.3",
+    "bitstamp": "^1.0.6",
+    "hitbtc-api": "^3.0.2",
+    "node-fetch": "^2.1.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
